@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Simon Rutz | Fullstack Software Engineer</h1>
 
-<!--
-**simrtz/simrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Based in Zürich, Switzerland
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: **simon.rutz@outlook.de**
+
+---
+
+## Tech Stack
+
+I'm proficient in following technologies
+
+- **Languages:** Java, Javascript/ Typescript, Kotlin, SQL
+- **Frameworks:** Springboot, React
+- **Tools:** Git, Docker, Kubernetes, Figma, VS Code, IntelliJ IDEA, Postman, 
